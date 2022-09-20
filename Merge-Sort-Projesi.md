@@ -1,16 +1,21 @@
-### Merge Sort Projesi
+# ALGORİTMALAR PROJE 2 (MERGE SORT)
 
-<!--
-**kubra-stack/kubra-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SORU
 
-Here are some ideas to get you started:
+[16,21,11,8,12,22] -> Merge Sort
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+- Big-O gösterimini yazınız.
+
+## CEVAP
+
+>                         [16,21,11,8,12,22]
+>>                    [16,21,11] - [8,12,22]
+>>                 [16]-[21,11]  -  [8]-[12,22]
+>>             [16]-[21]-[11]    -    [8]-[12]-[22]
+>>                 [16]-[11,21]  -  [8]-[12,22]
+>>                    [11,16,21] - [8,12,22]
+>>                      [8,11,12,16,21,22]
+
+> Big-O notation
+>>**O(nlogn)**
