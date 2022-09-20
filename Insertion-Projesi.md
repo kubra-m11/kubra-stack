@@ -28,7 +28,7 @@ Cevaplar
 > Sıralandığında 18 Sayısı Average Case kapsamına girer.
  
   
-  
+>  https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
 
 
