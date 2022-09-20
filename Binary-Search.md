@@ -4,7 +4,7 @@
 >Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 > ###Root 7 olsun.
->>                        7
+>                         7
                       /        \
                      5          8
                     / \          \
@@ -14,3 +14,4 @@
                     / \
                    2   4     
                    
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
