@@ -1,6 +1,6 @@
-#Patika.dev İnsertion Projesi
+Patika.dev İnsertion Projesi
 
-#Proje 1
+Proje 1
 
 
 [22,27,16,2,18,6] -> Insertion Sort
@@ -10,23 +10,23 @@
  3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
  4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-#Cevaplar
+Cevaplar
 
-> *İnsertion Sort Aşamaları*
+> İnsertion Sort Aşamaları
 >> 1-[22,27,16,2,18,6]
 >> [2,16,22,27,18,6]
 >> [2,6,16,22,27,18]
->> [2,6,16,18,22,27]#
+>> [2,6,16,18,22,27]
    
-> #2-Big O Gösterimi: 
->>   **Big O(n²)
+> 2-Big O Gösterimi: 
+>>   Big O(n²)
  
-> #3-Time Complexity:
->>  **Average Case:(n²)**
->>  **Worst Case:O(n²)**
->>  **Best Case:O(n)**
+> 3-Time Complexity:
+>>  Average Case:(n²)
+>>  Worst Case:O(n²)
+>>  Best Case:O(n)
 
-> **Sıralandığında 18 Sayısı Average Case kapsamına girer.
+> Sıralandığında 18 Sayısı Average Case kapsamına girer.
  
   
   
