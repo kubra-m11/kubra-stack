@@ -43,4 +43,5 @@
 >[7,3,5,8,2,9,4,15,6]
 >
 >>[2,3,5,8,7,9,4,15,6]
+>>
 >>https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
