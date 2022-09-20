@@ -4,6 +4,7 @@
 >Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 > ###Root 7 olsun.
+> 
 >                         7
                       /        \
                      5          8
